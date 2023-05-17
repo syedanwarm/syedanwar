@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "tester",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "dob": "2023-04-18T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "test",
+      "experience": 333,
+      "package": 2222,
+      "id": 1
+    },
+    {
+      "firstName": "anwar",
+      "lastName": "syed",
+      "email": "anwarutheen@gmail.com",
+      "dob": "1992-12-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "google",
+      "experience": 1,
+      "package": 22,
+      "id": 2
+    },
+    {
+      "firstName": "syed",
+      "lastName": "anwar",
+      "email": "anwarutheen@gmail.com",
+      "dob": "1992-12-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "google",
+      "experience": 4,
+      "package": 13,
+      "id": 3
+    }
+  ]
+}
